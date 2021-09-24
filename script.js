@@ -8,14 +8,14 @@ const data=[
     id:"1",
     title:"queen panel bed",
     price:"$12.99",
-    url:"./setup-files-js-comfy-house/images/product-1.jpeg",
+    url:"./images/product-1.jpeg",
     rating:"1"
     },
     {
     id:"2",
     title:"table",
     price:"$12.99",
-    url:"./setup-files-js-comfy-house/images/product-2.jpeg",
+    url:"./images/product-2.jpeg",
     rating:"4"
     },
      
@@ -23,42 +23,42 @@ const data=[
     id:"3",
     title:"single panel bed",
     price:"$12.99",
-    url:"./setup-files-js-comfy-house/images/product-3.jpeg",
+    url:"./images/product-3.jpeg",
     rating:"3"
     },
     {
     id:"4",
     title:"twin panel bed",
     price:"$22.99",
-    url:"./setup-files-js-comfy-house/images/product-4.jpeg",
+    url:"./images/product-4.jpeg",
     rating:"5"
     },
     {
     id:"5",
     title:"fridge",
     price:"$88.99",
-    url:"./setup-files-js-comfy-house/images/product-5.jpeg",
+    url:"./images/product-5.jpeg",
     rating:"3"
     },
     {
     id:"6",
     title:"dresser",
     price:"$32.99",
-    url:"./setup-files-js-comfy-house/images/product-6.jpeg",
+    url:"./images/product-6.jpeg",
     rating:"5"
     },
     {
     id:"7",
     title:"couch",
     price:"$45.99",
-    url:"./setup-files-js-comfy-house/images/product-7.jpeg",
+    url:"./images/product-7.jpeg",
     rating:"4"
     },
     {
     id:"8",
     title:"table",
     price:"$33.99",
-    url:"./setup-files-js-comfy-house/images/product-8.jpeg",
+    url:"./images/product-8.jpeg",
     rating:"3"
     }
 ];
